@@ -29,3 +29,5 @@
 + 功能演示地址：https://diguo.guiboweb.com/e/admin/ 用户名：test   密码：6个1（111111）
 
 以上功能全部免费开源。
+
+## 联系邮箱：913279025@qq.com
